@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/ixtli/harmonyhub-hhc/issues"
   },
-  "homepage": "https://github.com/ixtli/harmonyhub-hhc#readme"
+  "homepage": "https://github.com/ixtli/harmonyhub-hhc#readme",
+  "dependencies": {
+    "harmonyhubjs-client": "^1.1.10",
+    "harmonyhubjs-discover": "^1.1.1"
+  }
 }
