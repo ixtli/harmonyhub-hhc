@@ -1,0 +1,29 @@
+{
+  "name": "homebridge-hhc",
+  "version": "1.0.0",
+  "description": "homebridge harmony hub plugin",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ixtli/harmonyhub-hhc.git"
+  },
+  "keywords": [
+    "homekit",
+    "harmony",
+    "homebridge",
+    "harmony",
+    "hub"
+  ],
+  "author": "chris galardi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ixtli/harmonyhub-hhc/issues"
+  },
+  "homepage": "https://github.com/ixtli/harmonyhub-hhc#readme"
+}
